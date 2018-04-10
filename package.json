@@ -1,14 +1,11 @@
 {
-  "name": "graphiql-workspace",
-  "version": "1.1.4",
+  "name": "@mmrobins/graphiql-workspace",
+  "version": "1.1.5",
   "description": "A graphical interactive in-browser GraphQL IDE enhanced with tabbed navigation, HTTP headers, arbitrary endpoints, etc.",
   "homepage": "http://toolbox.sangria-graphql.org/graphiql",
-  "bugs": {
-    "url": "https://github.com/OlegIlyenko/graphiql-workspace/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OlegIlyenko/graphiql-workspace.git"
+    "url": "https://github.com/mmrobins/graphiql-workspace.git"
   },
   "license": "Apache License 2.0",
   "main": "dist/index.js",
